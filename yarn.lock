@@ -5095,9 +5095,10 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-phoneformat.js@^1.0.3:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/phoneformat.js/-/phoneformat.js-1.0.5.tgz#aeda52ea1a11358dd240f4896ee3446d6b9e0da0"
+phoneformat.js@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/phoneformat.js/-/phoneformat.js-1.0.9.tgz#ac397d459db0d914ea4df3e84337f7d5bb93e58e"
+  integrity sha512-KdFjWtfuxTOEKw65TAuStLsNPAgKpels1pSb2lv2OSMT/8YzKcumh7lgGiZ7CIOzUswOplXQAZU+OKONSzqdzw==
 
 pify@^2.0.0, pify@^2.3.0:
   version "2.3.0"
