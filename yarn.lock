@@ -3864,9 +3864,10 @@ json-loader@^0.5.4:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/json-loader/-/json-loader-0.5.7.tgz#dca14a70235ff82f0ac9a3abeb60d337a365185d"
 
-json-mask@^0.3.8:
-  version "0.3.8"
-  resolved "https://registry.yarnpkg.com/json-mask/-/json-mask-0.3.8.tgz#2d66415de14b0e8bc6c1514554a90bfca8356941"
+json-mask@^0.3.9:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/json-mask/-/json-mask-0.3.9.tgz#c3772baa49ceda56ca360a6dd6b479ca3c0e327f"
+  integrity sha512-RRu7bf7vzOohKMrU5pD9+fROMltTegWj2trZlPNr7hXekptFGkOZo4S63Jdx2X1GR7IK6rEVvXkQKY+2TPs0PA==
 
 json-schema@0.2.3:
   version "0.2.3"
