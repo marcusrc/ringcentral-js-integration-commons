@@ -97,7 +97,7 @@
     "file-loader": "^0.11.2",
     "json-mask": "^0.3.8",
     "loganberry": "^0.9.1",
-    "phoneformat.js": "^1.0.3",
+    "phoneformat.js": "^1.0.9",
     "prettier": "^1.7.0",
     "ramda": "^0.24.1",
     "redux": "^3.5.2",
