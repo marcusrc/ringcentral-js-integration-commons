@@ -95,7 +95,7 @@
   },
   "dependencies": {
     "file-loader": "^0.11.2",
-    "json-mask": "^0.3.8",
+    "json-mask": "^0.3.9",
     "loganberry": "^0.9.1",
     "phoneformat.js": "^1.0.3",
     "prettier": "^1.7.0",
