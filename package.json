@@ -81,7 +81,7 @@
     "through2": "^2.0.1",
     "watchify": "^3.7.0",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5",
+    "webpack-dev-server": "^4.6.0",
     "yargs": "^8.0.1"
   },
   "peerDependencies": {
