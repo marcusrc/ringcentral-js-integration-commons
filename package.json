@@ -50,7 +50,7 @@
     "eslint-plugin-jsx-a11y": "^5.0.3",
     "eslint-plugin-react": "^7.0.1",
     "faker": "^4.1.0",
-    "fetch-mock": "^5.11.0",
+    "fetch-mock": "^6.0.0",
     "format-message": "^5.0.0",
     "fs-promise": "^2.0.3",
     "gulp": "^3.9.1",
