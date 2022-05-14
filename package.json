@@ -44,7 +44,7 @@
     "chai-as-promised": "^6.0.0",
     "coveralls": "^2.11.12",
     "dirty-chai": "^1.2.2",
-    "eslint": "^3.13.1",
+    "eslint": "^8.0.0",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.0.3",
@@ -53,7 +53,7 @@
     "fetch-mock": "^5.11.0",
     "format-message": "^5.0.0",
     "fs-promise": "^2.0.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-babel": "^6.1.2",
     "gulp-istanbul": "^1.1.1",
     "gulp-mocha": "3.0.1",
@@ -80,9 +80,9 @@
     "source-map-support": "^0.4.0",
     "through2": "^2.0.1",
     "watchify": "^3.7.0",
-    "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5",
-    "yargs": "^8.0.1"
+    "webpack": "^4.0.0",
+    "webpack-dev-server": "^4.0.0",
+    "yargs": "^13.2.4"
   },
   "peerDependencies": {
     "babel-runtime": "^6.6.1",
