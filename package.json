@@ -42,7 +42,7 @@
     "browserify": "^14.4.0",
     "chai": "^4.0.2",
     "chai-as-promised": "^6.0.0",
-    "coveralls": "^2.11.12",
+    "coveralls": "^2.13.2",
     "dirty-chai": "^1.2.2",
     "eslint": "^3.13.1",
     "eslint-config-airbnb": "^15.0.1",
